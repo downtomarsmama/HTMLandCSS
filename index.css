@@ -1,0 +1,32 @@
+h1{
+    color: blueviolet;
+    
+    
+}
+p{
+ 
+    color: rgb(98, 0, 255);   /* green text */
+    border-color: rgba(0, 0, 255, 0.8);  /* blue, slightly transparent border */
+  }
+body{
+    background-color: black;
+    
+}
+li{
+    color: rgb(155, 244, 66);
+  }
+ h3{ color: #9bf442;
+  font-weight: bold;
+  border-radius: 10px;
+  }
+
+
+.bio {
+    color: blue
+}
+#html {
+    background-color: aqua
+}
+h2{
+    color: aqua
+}
